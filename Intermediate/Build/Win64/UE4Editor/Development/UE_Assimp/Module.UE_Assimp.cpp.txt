@@ -1,0 +1,409 @@
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\Definitions.UE_Assimp.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AIBone.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AIBone.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIBone.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/mesh.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/aabb.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/vector3.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/defs.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/config.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/types.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/vector2.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/color4.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/matrix3x3.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/matrix4x4.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/quaternion.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\vector2.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\vector3.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\color4.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\matrix3x3.inl
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\matrix4x4.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\MathFunctions.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\quaternion.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AssimpFunctionLibrary.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AIScene.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/scene.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/texture.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/light.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/camera.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/material.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\material.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/anim.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/metadata.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIScene.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/postprocess.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AssimpFunctionLibrary.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AICamera.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AICamera.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AICamera.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\UE_Assimp.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/Logger.hpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/TinyFormatter.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/LogStream.hpp
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AILight.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AILight.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AILight.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AIMaterial.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AIMaterial.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIMaterial.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AIMesh.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AIMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshDescription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshAttributeArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementRemappings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIMesh.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\GeometryProcessing\Source\MeshConversion\Public\MeshDescriptionBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\StaticMeshDescription\Public\StaticMeshDescription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshDescriptionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshAttributes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescriptionBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\StaticMeshDescription\Public\StaticMeshAttributes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\StaticMeshDescription\StaticMeshDescription.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AINode.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AINode.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AINode.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AIScene.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AssimpMesh.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AssimpMesh.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/cimport.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/importerdesc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetRenderingLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetRenderingLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AssimpFunctionLibrary.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/DefaultLogger.hpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\NullLogger.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows\COMPointer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/COMPointer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\cderr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dde.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ddeml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dlgs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\lzexpand.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\nb30.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winperf.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsock.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dpapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winscard.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winsmcrd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winspool.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\prsht.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/AssimpMesh.cpp
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Source/UE_Assimp/Private/UE_Assimp.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/Importer.hpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

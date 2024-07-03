@@ -1,0 +1,116 @@
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\Definitions.UE_Assimp.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AIBone.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AIBone.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIBone.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AICamera.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AICamera.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\AIScene.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/scene.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/types.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/defs.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/config.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/vector2.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/vector3.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/color4.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/matrix3x3.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/matrix4x4.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/quaternion.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\vector2.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\vector3.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\color4.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\matrix3x3.inl
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\matrix4x4.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\MathFunctions.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\quaternion.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/texture.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/mesh.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/aabb.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/light.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/camera.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/material.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/pushpack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\./Compiler/poppack1.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp\material.inl
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/anim.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/metadata.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIScene.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AICamera.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AILight.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AILight.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AILight.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AIMaterial.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AIMaterial.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp\Public\UE_Assimp.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/Logger.hpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/TinyFormatter.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/LogStream.hpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIMaterial.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AIMesh.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AIMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshDescription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshAttributeArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementRemappings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AIMesh.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AINode.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AINode.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AINode.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AIScene.gen.cpp
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AssimpFunctionLibrary.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AssimpFunctionLibrary.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\include\assimp/postprocess.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AssimpFunctionLibrary.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/AssimpMesh.gen.cpp
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\UE_Assimp/Public/AssimpMesh.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Inc\UE_Assimp\AssimpMesh.generated.h
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/UE_Assimp.gen.cpp
+C:/Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Plugins/UE4_Assimp/Intermediate/Build/Win64/UE4Editor/Inc/UE_Assimp/UE_Assimp.init.gen.cpp
